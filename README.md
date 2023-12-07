@@ -4,8 +4,8 @@ This Proof of Concept documentation aims to provide 2 different implementations 
 
 You can find each documentation in their respective folder:
 
--   NFC technology: [PBT_POC/NFC](https://github.com/quantumtemple/PBT_POC/tree/develop/NFC)
--   Bluetooth/IoT devices: [PBT_POC/BLE](https://github.com/quantumtemple/PBT_POC/tree/develop/BLE)
+-   NFC technology: [PBT_POC/NFC](https://github.com/juansimmendinger/PBT_POCs/tree/main/NFC)
+-   Bluetooth/IoT devices: [PBT_POC/BLE](https://github.com/juansimmendinger/PBT_POCs/tree/main/BLE)
 
 [Code Documentation](https://docs.google.com/document/d/17YpDUsP-kI7ryguuF_aJeJ-cCMl3EjjGVyeWr_oob3w/edit?usp=sharing)
 
@@ -30,7 +30,7 @@ Both of them have different use cases with **Pros | Cons**
     - Relies on source of energy [MicroUSB]
     - Big Device in comparison to NFC so its harder to attach it to an Artifact 
 
-![PBT-DIAGRAM](https://github.com/quantumtemple/PBT_POC/blob/develop/Assets/NFC-BLE.png?raw=true)
+![PBT-DIAGRAM](https://github.com/juansimmendinger/PBT_POCs/blob/main/Assets/NFC-BLE.png?raw=true)
 
 ## PBT Requirements ##
 [Requirements](https://docs.google.com/document/d/1X3Gj_YrRtGISXFhE5NlvLYIUZ_-zEIcj4OFGVsOPlXQ/edit?usp=sharing)
@@ -45,7 +45,7 @@ Both of them have different use cases with **Pros | Cons**
 - EC2 Instance API: https://api.pbt.quantumtemple.xyz/
 
 ## PBT Flow Diagram
-![PBT-DIAGRAM](https://github.com/quantumtemple/PBT_POC/blob/develop/Assets/PBT-DIAGRAM.png?raw=true)
+![PBT-DIAGRAM](https://github.com/juansimmendinger/PBT_POCs/blob/main/Assets/PBT-DIAGRAM.png?raw=true)
 
 ### Tech Stack
 -   Frontend [React]
