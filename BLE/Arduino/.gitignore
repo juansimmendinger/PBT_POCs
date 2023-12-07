@@ -1,0 +1,7 @@
+# Arduino IDE build artifacts
+*/debug_custom.json
+*/debug.cfg
+*/esp32.svd
+
+# Misc
+*/*.bkp

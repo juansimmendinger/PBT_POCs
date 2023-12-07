@@ -1,0 +1,6 @@
+#Node Modules
+NFC/Smart Contract/node_modules/
+NFC/Frontend/node_modules/
+NFC/Backend/node_modules/
+NFC/Frontend/build/
+.idea

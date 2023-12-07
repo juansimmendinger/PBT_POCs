@@ -1,0 +1,4 @@
+{
+    "filter_paths": "(mocks/|node_modules/|openzeppelin-presets/|contracts/ERC721ReadOnly.sol)",
+    "detectors_to_exclude": "solc-version,pragma,naming-convention,too-many-digits,assembly-usage, similar-names, timestamp, low-level-calls"
+}
